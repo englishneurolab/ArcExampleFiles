@@ -1,5 +1,5 @@
 # ArcExampleFiles
-The purpose of this repository is to assist lab members in navigating ARC. This example assumes you already have a Globus account and Arc account. 
+The purpose of this repository is to assist lab members in navigating ARC. This example assumes you already have a Globus account, Arc account, connected to VT's VPN, and have a personal Globus endpoint. 
 This repository contains an example slurm file, data, and matlab script to refer to or practice with.
 
 For practice, feel free to download the script, slurm file, and mat file to your computer.
